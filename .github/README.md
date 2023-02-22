@@ -92,8 +92,8 @@ Press `Ctrl+b` and then `d`
 </h3>
 
 - <b>[ѕᴇᴠᴇɴ](https://github.com/VENOM7XxX)  ғᴏʀ  [ѕᴇᴠᴇɴ ᴍᴜsɪᴄ](https://github.com/VENOM7XxX/MUSIC_SEVEN) </b>
-- <b>[ѕᴇᴠᴇɴ](https://github.com/VENOM7XxX)  ғᴏʀ  [ᴘʏʀᴏɢʀᴀᴍ](https://github.com/pyrogram/pyrogram) </b>
-- <b>[ѕᴇᴠᴇɴ](https://github.com/VENOM7XxX)  ғᴏʀ  [ᴘʏ-ᴛɢᴄᴀʟʟs](https://github.com/pytgcalls/pytgcalls) </b>
+- <b>[ѕᴇᴠᴇɴ](https://github.com/VENOM7XxX)  ғᴏʀ  [ѕᴇᴠᴇɴ ᴍᴜsɪᴄ](https://github.com/VENOM7XxX/MUSIC_SEVEN) </b>
+- <b>[ѕᴇᴠᴇɴ](https://github.com/VENOM7XxX)  ғᴏʀ  [ѕᴇᴠᴇɴ ᴍᴜsɪᴄ](https://github.com/VENOM7XxX/MUSIC_SEVEN) </b>
 
 <b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/VENOM7XxX/MUSIC_SEVEN/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ѕᴇᴠᴇɴ ✘ ᴍᴜsɪᴄ ѕᴇᴠᴇɴ & ᴩᴏᴡᴇʀғᴜʟ 🖤 </b>
 
