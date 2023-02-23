@@ -29,18 +29,18 @@ from FallenMusic import ASS_MENTION, LOGGER, SUDOERS, app, app2
 @app.on_message(filters.command(["صورة", "وضع صورة"]) & SUDOERS)
 async def set_pfp(_, message: Message):
     if message.reply_to_message.photo:
-        fuk = await message.reply_text("» جآري تغيـر صـور‏‏ه آلحسـآب آلمـسـآعد...")
+        fuk = await message.reply_text("⎊ جآري تغيـر صـور‏‏ه آلحسـآب آلمـسـآعد...")
         img = await message.reply_to_message.download()
         try:
             await app2.set_profile_photo(photo=img)
             return await fuk.edit_text(
-                f"» {ASS_MENTION} آتغيـرت يـعم خلآص."
+                f"⎊ {ASS_MENTION} آتغيـرت يـعم خلآص 😜"
             )
         except:
-            return await fuk.edit_text("» فشـلت في تغيـر .")
+            return await fuk.edit_text("⎊ فشـلت في تغيـر 🙃")
     else:
         await message.reply_text(
-            "» لآزم تعمـل ريـب علي آلصـوره عشـآن تتحط"
+            "⎊ لآزم تعمـل ريـب علي آلصـوره عشـآن تتحط"
         )
 
 
@@ -50,11 +50,11 @@ async def set_pfp(_, message: Message):
         pfp = [p async for p in app2.get_chat_photos("me")]
         await app2.delete_profile_photos(pfp[0].file_id)
         return await message.reply_text(
-            "» تم ازاله صوره الحساب المساعد."
+            "⎊ تم ازاله صوره الحساب المساعد 🤓"
         )
     except Exception as ex:
         LOGGER.error(ex)
-        await message.reply_text("» فشـلت في حذف آلصـور‏‏ه.")
+        await message.reply_text("⎊ فشـلت في حذف آلصـور‏‏ه 🙃")
 
 
 @app.on_message(filters.command(["بايو", "وضع بايو"]) & SUDOERS)
@@ -65,15 +65,15 @@ async def set_bio(_, message: Message):
             newbio = msg.text
             await app2.update_profile(bio=newbio)
             return await message.reply_text(
-                f"» {ASS_MENTION} البايو اتغيرت يقلب."
+                f"⎊ {ASS_MENTION} البايو اتغيرت يقلب."
             )
     elif len(message.command) != 1:
         newbio = message.text.split(None, 1)[1]
         await app2.update_profile(bio=newbio)
-        return await message.reply_text(f"» {ASS_MENTION} آلبآيـو آتغيـرت يـقلب")
+        return await message.reply_text(f"⎊ {ASS_MENTION} آلبآيـو آتغيـرت يـقلب")
     else:
         return await message.reply_text(
-            "»آعمـل ريـب علي آلبآيـو عشـآن تتحط"
+            "⎊ آعمـل ريـب علي آلبآيـو عشـآن تتحط"
         )
 
 
@@ -85,13 +85,13 @@ async def set_name(_, message: Message):
             name = msg.text
             await app2.update_profile(first_name=name)
             return await message.reply_text(
-                f"» {ASS_MENTION} آلآسـم آتغيـر ‌‌🇻‌🇳 غيـرهہ‏‏."
+                f"⎊ {ASS_MENTION} آلآسـم آتغيـر ‌‌‌🇸‌🇻 غيـرهہ‏‏"
             )
     elif len(message.command) != 1:
         name = message.text.split(None, 1)[1]
         await app2.update_profile(first_name=name, last_name="")
-        return await message.reply_text(f"» {ASS_MENTION} ‌‌🇻‌🇳 غيـرتهہ‏‏ ولگ يـبرو.")
+        return await message.reply_text(f"⎊ {ASS_MENTION} ‌‌‌🇸‌🇻 غيـرتهہ‏‏ ولگ يـبرو")
     else:
         return await message.reply_text(
-            "»آعمـل ريـب علي آلآسـم آلي آنت عآيز تحطـو."
+            "⎊ آعمـل ريـب علي آلآسـم آلي آنت عآيز تحطـو"
         )
