@@ -1,14 +1,14 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「 ѕᴇᴠᴇɴ ✘ ᴍᴜsɪᴄ 」──
+    ──「 ᴍᴜsɪᴄ ✘ ѕᴇᴠᴇɴ」──
 </h2>
 
 <p align="center">
   <img src="https://telegra.ph/file/d41f8fe2d56dd219fba47.jpg">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ѕᴇᴠᴇɴ ✘ ᴍᴜsɪᴄ](https://t.me/EE_20)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ѕᴇᴠᴇɴ](https://t.me/EE_20)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
