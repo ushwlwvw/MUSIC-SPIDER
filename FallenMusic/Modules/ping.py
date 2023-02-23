@@ -46,7 +46,7 @@ async def ping_fallen(_, message: Message):
     uptime = get_readable_time((upt))
 
     await hmm.edit_text(
-        f"""➻ آلبنج : `{resp}ᴍs`
+        f"""⎊ آلبنج : `{resp}ᴍs`
 
 <b><u>{BOT_NAME} آلحآله :</u></b>
 
@@ -57,9 +57,9 @@ async def ping_fallen(_, message: Message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("❄ sᴜᴘᴘᴏʀᴛ ❄", url=config.SUPPORT_CHAT),
+                    InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url=config.SUPPORT_CHAT),
                     InlineKeyboardButton(
-                        "𝗦𝗢𝗨𝗥𝗖𝗘 𝗦𝗘𝗩𝗘𝗡",
+                        "ѕᴇᴠᴇɴ",
                         url="https://t.me/EE_20",
                     ),
                 ],
