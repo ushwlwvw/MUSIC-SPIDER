@@ -32,7 +32,7 @@ from FallenMusic import ASS_MENTION, SUNAME, app, app2
 
 @app.on_message(filters.command(["مغادرة", "خروج"]) & filters.user(OWNER_ID))
 async def ass_leaveall(_, message: Message):
-    lear = await message.reply_text(f"» {ASS_MENTION} جاري آلمـغآدر‏‏هہ...")
+    lear = await message.reply_text(f"⎊ {ASS_MENTION} جاري آلمـغآدر‏‏هہ...")
     left = 0
     failed = 0
     chats = []
