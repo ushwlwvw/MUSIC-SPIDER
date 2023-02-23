@@ -46,10 +46,10 @@ def testspeed(m):
 
 @app.on_message(filters.command(["فحص", "سرعة"]) & SUDOERS)
 async def speedtest_function(_, message):
-    m = await message.reply_text("**» ʀᴜɴɴɪɴɢ sᴩᴇᴇᴅᴛᴇsᴛ...**")
+    m = await message.reply_text("**⎊ ʀᴜɴɴɪɴɢ sᴩᴇᴇᴅᴛᴇsᴛ...**")
     loop = asyncio.get_event_loop()
     result = await loop.run_in_executor(None, testspeed, m)
-    output = f"""✯ **sᴩᴇᴇᴅᴛᴇsᴛ ʀᴇsᴜʟᴛs** ✯
+    output = f"""✯ **sᴩᴇᴇᴅᴛᴇsᴛ ʀᴇsᴜʟᴛs ѕᴇᴠᴇɴ** ✯
     
 <u>**❥͜͡ᴄʟɪᴇɴᴛ :**</u>
 **» __ɪsᴩ :__** {result['client']['isp']}
