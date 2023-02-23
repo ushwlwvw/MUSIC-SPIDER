@@ -86,7 +86,7 @@ gp_buttons = [
 helpmenu = [
     [
         InlineKeyboardButton(
-            text="ᴇᴠᴇʀʏᴏɴᴇ",
+            text="𓂄𓆩 ٱوٱمۘر ٱلتشغيۧل 𓆪‌‌‏𓂁",
             callback_data="fallen_cb help",
         )
     ],
