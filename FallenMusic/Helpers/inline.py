@@ -51,12 +51,12 @@ pm_buttons = [
     ],
     [InlineKeyboardButton(text="𓂄𓆩 اٰلـٰ̲ـہاٰوٰاٰمـٰ̲ـہرٰ 𓆪‌‌‏𓂁", callback_data="fallen_help")],
     [
-        InlineKeyboardButton(text="ѕᴏụʀᴄᴇ ѕᴇᴠᴇɴ", url=config.SUPPORT_CHANNEL),
+        InlineKeyboardButton(text="ѕᴏụʀᴄᴇ ѕᴘɪᴅᴇʀ", url=config.SUPPORT_CHANNEL),
         InlineKeyboardButton(text="ѕụᴘᴘᴏʀᴛ ɢʀᴏụᴘ", url=config.SUPPORT_CHAT),
     ],
     [
         InlineKeyboardButton(
-            text="ᴏѕᴀᴍᴀ ѕᴇᴠᴇɴ", url="https://t.me/WWWL5"
+            text="ᴅᴇᴠ ᴏѕᴀᴍᴀ", url="https://t.me/WWWL5"
         ),
         InlineKeyboardButton(text="ʙᴏᴛ ᴏᴡɴᴇʀ", user_id=config.OWNER_ID),
     ],
@@ -71,12 +71,12 @@ gp_buttons = [
         )
     ],
     [
-        InlineKeyboardButton(text="ѕᴏụʀᴄᴇ ѕᴇᴠᴇɴ", url=config.SUPPORT_CHANNEL),
+        InlineKeyboardButton(text="ѕᴏụʀᴄᴇ ѕᴘɪᴅᴇʀ", url=config.SUPPORT_CHANNEL),
         InlineKeyboardButton(text="ѕụᴘᴘᴏʀᴛ ɢʀᴏụᴘ", url=config.SUPPORT_CHAT),
     ],
     [
         InlineKeyboardButton(
-            text="ᴏѕᴀᴍᴀ ѕᴇᴠᴇɴ", url="https://t.me/WWWL5"
+            text="ᴅᴇᴠ ᴏѕᴀᴍᴀ", url="https://t.me/WWWL5"
         ),
         InlineKeyboardButton(text="ʙᴏᴛ ᴏᴡɴᴇʀ", user_id=config.OWNER_ID),
     ],
@@ -95,8 +95,8 @@ helpmenu = [
         InlineKeyboardButton(text="م̀آ̀لك آ̀لبوت", callback_data="fallen_cb owner"),
     ],
     [
-        InlineKeyboardButton(text="B𝗔𝗖𝗞", callback_data="fallen_home"),
-        InlineKeyboardButton(text="C𝗟𝗘𝗔𝗥", callback_data="close"),
+        InlineKeyboardButton(text="✯ ʙᴀᴄᴋ ✯", callback_data="fallen_home"),
+        InlineKeyboardButton(text="✯ ᴄʟᴏѕᴇ ✯", callback_data="close"),
     ],
 ]
 
@@ -104,7 +104,7 @@ helpmenu = [
 help_back = [
     [InlineKeyboardButton(text="ѕụᴘᴘᴏʀᴛ ɢʀᴏụᴘ", url=config.SUPPORT_CHAT)],
     [
-        InlineKeyboardButton(text="B𝗔𝗖𝗞", callback_data="fallen_help"),
-        InlineKeyboardButton(text="C𝗟𝗘𝗔𝗥", callback_data="close"),
+        InlineKeyboardButton(text="✯ ʙᴀᴄᴋ ✯", callback_data="fallen_help"),
+        InlineKeyboardButton(text="✯ ᴄʟᴏѕᴇ ✯", callback_data="close"),
     ],
 ]
