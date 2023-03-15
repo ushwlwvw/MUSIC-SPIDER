@@ -56,7 +56,7 @@ pm_buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="ᴅᴇᴠ ᴏѕᴀᴍᴀ", url="https://t.me/WWWL5"
+            text="ᴅᴇᴠ ᴏѕᴀᴍᴀ", url="https://t.me/ZZZ7iZ"
         ),
         InlineKeyboardButton(text="ʙᴏᴛ ᴏᴡɴᴇʀ", user_id=config.OWNER_ID),
     ],
@@ -76,7 +76,7 @@ gp_buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="ᴅᴇᴠ ᴏѕᴀᴍᴀ", url="https://t.me/WWWL5"
+            text="ᴅᴇᴠ ᴏѕᴀᴍᴀ", url="https://t.me/ZZZ7iZ"
         ),
         InlineKeyboardButton(text="ʙᴏᴛ ᴏᴡɴᴇʀ", user_id=config.OWNER_ID),
     ],
