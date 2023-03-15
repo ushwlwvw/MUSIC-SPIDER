@@ -1,7 +1,7 @@
 {
     "name": "𝗦𝗢𝗨𝗥𝗖𝗘 𝗠𝗨𝗦𝗜𝗖 𝗦𝗣𝗜𝗗𝗘𝗥",
     "description": "اللهم صلي علي سيدنا محمد 🌺",
-    "logo": "https://telegra.ph/file/ba5e50feaff3c2bbde984.jpg",
+    "logo": "https://telegra.ph/file/68d2bbd94c43d14e848b4.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -42,8 +42,8 @@
         "required": true
       },
       "SUPPORT_CHAT": {
-        "description": "ضـع رابـط جـروب الـدعـم",
-        "value": "https://t.me/EE_47",
+        "description": "ضـع رابـط قنـاتك الـدعـم",
+        "value": "https://t.me/ZZZ7iZ",
         "required": false
       }
     },
@@ -55,7 +55,7 @@
               "url": "heroku/nodejs"
           },
           {
-              "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+              "url": "https://telegra.ph/file/68d2bbd94c43d14e848b4.jpg"
           }
       ],
       "stack": "container"
