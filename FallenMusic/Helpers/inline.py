@@ -45,20 +45,20 @@ buttons = InlineKeyboardMarkup(
 pm_buttons = [
     [
         InlineKeyboardButton(
-            text="ضيف̀ آ̀لبوت لم̀جم̀وع̀́تك ✅",
+            text="‹ اضف البوت في مجموعتك ›",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         )
     ],
-    [InlineKeyboardButton(text="𓂄𓆩 اٰلـٰ̲ـہاٰوٰاٰمـٰ̲ـہرٰ 𓆪‌‌‏𓂁", callback_data="fallen_help")],
+    [InlineKeyboardButton(text="• اوامࢪ البوت •", callback_data="fallen_help")],
     [
-        InlineKeyboardButton(text="ѕᴏụʀᴄᴇ ѕᴘɪᴅᴇʀ", url=config.SUPPORT_CHANNEL),
-        InlineKeyboardButton(text="ѕụᴘᴘᴏʀᴛ ɢʀᴏụᴘ", url=config.SUPPORT_CHAT),
+        InlineKeyboardButton(text="< DevTwix TeAm .", url=config.SUPPORT_CHANNEL),
+        InlineKeyboardButton(text="• قناة الشࢪح •", url=config.SUPPORT_CHAT),
     ],
     [
         InlineKeyboardButton(
-            text="ᴅᴇᴠ ᴏѕᴀᴍᴀ", url="https://t.me/ZZZ7iZ"
+            text="• لتنصيب بوت •", url="https://t.me/H_M_Dr"
         ),
-        InlineKeyboardButton(text="ʙᴏᴛ ᴏᴡɴᴇʀ", user_id=config.OWNER_ID),
+        InlineKeyboardButton(text="• مطوࢪ البوت •", user_id=config.OWNER_ID),
     ],
 ]
 
@@ -66,19 +66,19 @@ pm_buttons = [
 gp_buttons = [
     [
         InlineKeyboardButton(
-            text="ضيف̀ آ̀لبوت لم̀جم̀وع̀́تك ✅",
+            text="‹ اضف البوت في مجموعتك ›",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         )
     ],
     [
-        InlineKeyboardButton(text="ѕᴏụʀᴄᴇ ѕᴘɪᴅᴇʀ", url=config.SUPPORT_CHANNEL),
-        InlineKeyboardButton(text="ѕụᴘᴘᴏʀᴛ ɢʀᴏụᴘ", url=config.SUPPORT_CHAT),
+        InlineKeyboardButton(text="< DevTwix TeAm .", url=config.SUPPORT_CHANNEL),
+        InlineKeyboardButton(text="• قناة الشࢪح •", url=config.SUPPORT_CHAT),
     ],
     [
         InlineKeyboardButton(
-            text="ᴅᴇᴠ ᴏѕᴀᴍᴀ", url="https://t.me/ZZZ7iZ"
+            text="• لتنصيب بوت •", url="https://t.me/H_M_Dr"
         ),
-        InlineKeyboardButton(text="ʙᴏᴛ ᴏᴡɴᴇʀ", user_id=config.OWNER_ID),
+        InlineKeyboardButton(text="• مطوࢪ البوت •", user_id=config.OWNER_ID),
     ],
 ]
 
@@ -86,25 +86,25 @@ gp_buttons = [
 helpmenu = [
     [
         InlineKeyboardButton(
-            text="𓂄𓆩 ٱوٱمۘر ٱلتشغيۧل 𓆪‌‌‏𓂁",
+            text="• اوامر التشغيل •",
             callback_data="fallen_cb help",
         )
     ],
     [
-        InlineKeyboardButton(text="آ̀وآ̀م̀ر̀ آ̀لم̀ط̀́ور̀", callback_data="fallen_cb sudo"),
-        InlineKeyboardButton(text="م̀آ̀لك آ̀لبوت", callback_data="fallen_cb owner"),
+        InlineKeyboardButton(text="• اوامر المطور •", callback_data="fallen_cb sudo"),
+        InlineKeyboardButton(text="• مالك البوت •", callback_data="fallen_cb owner"),
     ],
     [
-        InlineKeyboardButton(text="✯ ʙᴀᴄᴋ ✯", callback_data="fallen_home"),
-        InlineKeyboardButton(text="✯ ᴄʟᴏѕᴇ ✯", callback_data="close"),
+        InlineKeyboardButton(text="• ࢪجوع •", callback_data="fallen_home"),
+        InlineKeyboardButton(text="• اغلاق القائمه •", callback_data="close"),
     ],
 ]
 
 
 help_back = [
-    [InlineKeyboardButton(text="ѕụᴘᴘᴏʀᴛ ɢʀᴏụᴘ", url=config.SUPPORT_CHAT)],
+    [InlineKeyboardButton(text="• قناة الشࢪح •", url=config.SUPPORT_CHAT)],
     [
-        InlineKeyboardButton(text="✯ ʙᴀᴄᴋ ✯", callback_data="fallen_help"),
-        InlineKeyboardButton(text="✯ ᴄʟᴏѕᴇ ✯", callback_data="close"),
+        InlineKeyboardButton(text="• ࢪجوع •", callback_data="fallen_help"),
+        InlineKeyboardButton(text="• اغلاق القائمه •", callback_data="close"),
     ],
 ]
