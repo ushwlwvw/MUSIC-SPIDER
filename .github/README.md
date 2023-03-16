@@ -1,9 +1,9 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「 ᴍᴜsɪᴄ ✘ ѕᴘɪᴅᴇʀ」──
+    • سورس الخليفه الرسمي •
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/ba5e50feaff3c2bbde984.jpg">
+  <https://telegra.ph/file/68d2bbd94c43d14e848b4.jpg">
 </p>
